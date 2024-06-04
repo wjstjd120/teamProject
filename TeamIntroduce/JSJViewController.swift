@@ -36,16 +36,16 @@ class JSJViewController: UIViewController {
         }
         
         //fix로 박은 데이터
-        positionLabel.text = "팀장"
-        positionLabel.textColor = .orange //원래는 if 문 사용해서 팀장은 오렌지, 팀원은 회색 줄려고 했음
-        subProfileImageView.layer.cornerRadius = 40 //사진 끝에 둥글게
-        nameLabel.text = "전성진"
-        ageLabel.text = "나이: 27"
-        genderLabel.text = "성별: 남자"
-        mbtiLabel.text = "MBTI: INTP"
-        areaLabel.text = "거주지: 인천"
-        hobbyLabel.text = "취미: 만화보기, 게임, 노래방"
-        hopeLabel.text = "하고싶은말: 부족하지만 열심히 따라 가겠습니다. 잘 부탁드립니다."
+//        positionLabel.text = "팀장"
+//        positionLabel.textColor = .orange //원래는 if 문 사용해서 팀장은 오렌지, 팀원은 회색 줄려고 했음
+//        subProfileImageView.layer.cornerRadius = 40 //사진 끝에 둥글게
+//        nameLabel.text = "전성진"
+//        ageLabel.text = "나이: 27"
+//        genderLabel.text = "성별: 남자"
+//        mbtiLabel.text = "MBTI: INTP"
+//        areaLabel.text = "거주지: 인천"
+//        hobbyLabel.text = "취미: 만화보기, 게임, 노래방"
+//        hopeLabel.text = "하고싶은말: 부족하지만 열심히 따라 가겠습니다. 잘 부탁드립니다."
     }
 }
 
